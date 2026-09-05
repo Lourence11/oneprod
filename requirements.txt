@@ -7,4 +7,3 @@ xlwt
 requests
 streamlit-shadcn-ui
 python-calamine
---server.maxUploadSize=8000
