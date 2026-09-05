@@ -1,6 +1,6 @@
 [server]
-maxUploadSize = 5000
-maxMessageSize = 5000
+maxUploadSize = 8000
+maxMessageSize = 8000
 
 [theme]
 base = "light"
