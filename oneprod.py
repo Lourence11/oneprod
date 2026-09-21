@@ -802,11 +802,11 @@ FINAL_COLUMNS = [
 ]
 
 CLIENT_FILE_CODES = {
-    "BPI RECOV 1": "Reco1",
-    "BPI RECOV 2": "Reco2",
-    "BPI RECOV 3": "Reco3",
-    "BPI RECOV PL": "RecoPL",
-    "BPI SPECIAL PROJECT": "Revival",
+    "BPI CARDS RECO LUZ 1": "Reco1",
+    "BPI CARDS RECO LUZ 2": "Reco2",
+    "BPI CARDS RECO LUZ 3": "Reco3",
+    "BPI PL RECO LUZ": "RecoPL",
+    "BPI SPECIAL PROJECT CARDS": "Revival",
 }
 
 
